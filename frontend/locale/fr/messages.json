@@ -50,7 +50,7 @@
     "origin": [["src/Screen1.js", 95], ["src/Screen3.js", 121]]
   },
   "In general terms, who was involved?": {
-    "translation": "En termes généraux, qui était impliqué?",
+    "translation": "De façon générale, qui était impliqué?",
     "origin": [["src/Screen1.js", 92]]
   },
   "I’m not sure": {
@@ -58,7 +58,7 @@
     "origin": [["src/Screen2.js", 101]]
   },
   "Landing Page": {
-    "translation": "Page d'atterrissage",
+    "translation": "Page d'accueil",
     "origin": [
       ["src/Screen1.js", 80],
       ["src/Screen2.js", 108],
